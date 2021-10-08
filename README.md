@@ -1,4 +1,4 @@
-# Hacktoberfest-2021
+# HACKTOBERFEST-2021
 Repo to commit.
 
 Follow the below instructions to contribute:
